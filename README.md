@@ -1,2 +1,2 @@
 # Java-Programs
-These all programs done in java by me.
+These all java programs done in java by me.
